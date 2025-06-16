@@ -1,4 +1,4 @@
-function SkillMember(){
+function skillMember(){
   this.name = "";
   this.level = 0;
   this.experience = 0;
